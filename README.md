@@ -1,5 +1,3 @@
-Here’s a professional and comprehensive README file tailored for your project, **bule-book-for-bulldozer-price-prediction**:
-
 ---
 
 # Bule Book for Bulldozer Price Prediction
