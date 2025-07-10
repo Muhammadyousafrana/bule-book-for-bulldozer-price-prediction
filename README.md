@@ -110,5 +110,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Scikit-learn, XGBoost, Pandas, and Matplotlib open-source contributors
 
 ---
-
-Feel free to customize this README further to better fit your specific project details or add more sections as needed!
